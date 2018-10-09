@@ -31,7 +31,7 @@ Documentation of Python fundamentals -- Python is a very good programming langua
 - `Formatted Output` - Use %d (integer), %f (float), %s (string)
 - `Indentation` - The most unique characteristics of Python unlike other programming language is indentation. Indentation not only makes code readability but also distinguish each block of code from the other. If the indentation is not strictly implemented then code execution will throw an error. Read [`Spaces vs Tab`](https://docs.python.org/2.0/ref/indentation.html) Python indentation rules.
 
-# Variable Type and Operators
+# Variable Type
 - Learn assignment statements, arithmentic, comparison, assignment, bitwise, logical, membership, identity operators.
 - What is a `VARIABLE`: A variable refers to the value that stored in the memory. When you create a variable, the interpreter will reserve some space in the memory to store values. Depending on the data type of the variable, the interpreter allocated memory and makes a decision to store a particular data type in the reserved memory.
 - Python variable usually  `dynamically typed` (type of variable is interpreted during runtime and you need not specifically provide a type to the variable name, unlike what the other programming language required.
