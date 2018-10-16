@@ -94,7 +94,14 @@ Tutorial Sites
 - [Guru99](https://www.guru99.com/)
 - [CodesDope](https://www.codesdope.com/python-introduction/)
 
-Daily Challenge
+Coding Challenge
+- [Code Wars](https://www.codewars.com/)
+- [Hacker Rank](https://www.hackerrank.com)
+- [Coder Byte](https://coderbyte.com/)
+- [Practice Python with Solution](https://www.practicepython.org/)
+- [Others](https://medium.freecodecamp.org/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f)
+
+Project Ideas
 - [Beginner Projects List on Reddit (26 projects)](http://www.reddit.com/r/beginnerprojects)
 - [Beginner Projects List on Github (96 projects)](https://github.com/karan/Projects-Solutions)
 - [Code Abbey (156 projects)](http://www.codeabbey.com/index/task_list)
@@ -113,3 +120,6 @@ Tips
 Here are some errors and how to handle such:
 - <b>CondaError: Cannot link a source that does not exist.</b>
   - Open Conda prompt -- Type `dir` -- Folders path(ed) to Anaconda package should be visible (property of the folder shouldn't be hidden)
+  
+ # Github
+ - [GithubGist - Instantly share code, notes, and snippets](https://gist.github.com/)
