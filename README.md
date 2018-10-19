@@ -1,4 +1,4 @@
-Documentation of Python fundamentals -- Python is a very good programming language however not understanding the basic might be a daunting learning phase for anyone who loves to learn the language.
+Documentation of Python fundamentals -- Python is a very good programming language however not knowing where to start the basic might be a daunting learning phase for anyone who loves to learn the language.
 
 `Getting Started` `Variables` `Operators` `expressions` `Strings` `List` `Dictionary` `Conditional Statements and loops` `Function and Scope of Variable` `Modules and Packages` `File Handling and Exceptions` `Collections` `Class and Objects`
 
